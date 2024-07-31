@@ -25,6 +25,7 @@ body {
   border-radius: 25px;
   margin: 0 auto;
   padding: 10px;
+  min-height: 400px;
 }
 .card img {
   padding: 10px;
@@ -44,6 +45,6 @@ h2 {
 p {
   text-align: center;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   font-size: 15px;
 }
