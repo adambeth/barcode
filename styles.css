@@ -40,10 +40,12 @@ h2 {
   padding-top: 10px;
   padding-bottom: 10px;
   columns: var(--Slate900);
+  font-weight: 700;
 }
 p {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 30px;
   font-size: 15px;
+  font-weight: 400;
 }
